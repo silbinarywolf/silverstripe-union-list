@@ -14,7 +14,7 @@ The use case for this is to have for example, 3 promoted items ordered by a CMS 
 ## Composer Install
 
 ```
-composer require symbiote/silverstripe-union-list:~0.1.0
+composer require symbiote/silverstripe-union-list:~1.0
 ```
 
 ## Requirements
